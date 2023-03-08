@@ -1,6 +1,6 @@
 ﻿# YouTubeVideoDownloader
 
-:octocat:You're able to Download YouTube Videos as aduio or video
+:octocat:You're able to Download YouTube Videos as audio or video
 ![Main Screen](https://user-images.githubusercontent.com/26960992/215359857-53a83cf5-351f-4053-ae6c-2b733215bcf1.jpg)
 
 
